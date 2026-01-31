@@ -16,10 +16,15 @@ How you will stay consistent every single day?
 
 
 
-Mention your current level >> Mainframe Developer/ Migration SME with 13 years of experience. 
+Mention your current level 
+>> Mainframe Developer/ Migration SME with 13 years of experience. 
 
-Define 3 clear goals for the next 90 days >> Pro in Devops, Hands on Projects, at least one interview
+Define 3 clear goals for the next 90 days 
+>> Pro in Devops, Hands on Projects, at least one interview
 
-Define 3 core DevOps skills you want to build >> Kubernetes expert, Solutions Architect, Devops AI Agents 
+Define 3 core DevOps skills you want to build 
+>> Kubernetes expert, Solutions Architect, Devops AI Agents 
 
-Allocate a weekly time budget >> 2–2.5 hours per day on weekdays, 4-6 hours weekends
+Allocate a weekly time budget 
+>> 2–2.5 hours per day on weekdays, 4-6 hours weekends
+
