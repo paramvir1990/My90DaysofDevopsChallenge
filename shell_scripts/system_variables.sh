@@ -1,0 +1,36 @@
+#!/bin/bash
+
+echo "BASH=" $BASH
+echo "BASH_VERSION=" $BASH_VERSION
+
+echo "HOSTNAME=" $HOSTNAME
+
+echo "TERM=" $TERM
+echo "SHELL=" $SHELL
+echo "HISTSIZE" $HISTSIZE
+echo "SSH_CLIENT=" $SSH_CLIENT
+echo "QTDIR=" $QTDIR
+echo "QTINC=" $QTINC
+echo "SSH_TTY=" $SSH_TTY
+echo "JRE_HOME" $JRE_HOME
+echo "USER=" $USER
+echo "LS_COLORS=" $LS_COLORS
+echo "TMOUT" $TMOUT
+echo "MAIL=" $MAIL
+echo "PATH=" $PATH
+echo "PWD=" $PWD
+echo "JAVA_HOME=" $JAVA_HOME
+echo "SSH_ASKPASS=" $SSH_ASKPASS
+echo "HISTCONTROL=" $HISTCONTROL
+echo "SHLVL=" $SHLVL
+echo "HOME=" $HOME
+echo "LOGNAME=" $LOGNAME
+echo "TLIB=" $TLIB
+echo "CVS_RSH=" $CVS_RSH
+echo "SSH_CONNECTION=" $SSH_CONNECTION
+echo "LESSOPEN=" $LESSOPEN
+echo "G_BROKEN_FILENAMES=" $G_BROKEN_FILENAMES
+echo "OLDPWD=" $OLDPWD
+
+
+
