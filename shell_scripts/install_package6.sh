@@ -31,4 +31,3 @@ install_package(){
 check_args
 install_package 
 
-exit 1

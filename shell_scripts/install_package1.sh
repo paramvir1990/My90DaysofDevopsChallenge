@@ -12,4 +12,3 @@ else
 	sudo apt install $package_name -y
 fi
 
-exit 1

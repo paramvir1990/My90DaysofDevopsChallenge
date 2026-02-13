@@ -19,4 +19,3 @@ else
 	sudo apt install $1 -y
 fi
 
-exit 1

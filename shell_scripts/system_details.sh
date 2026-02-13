@@ -36,4 +36,3 @@ show_details(){
 
 show_details
 
-exit 1
